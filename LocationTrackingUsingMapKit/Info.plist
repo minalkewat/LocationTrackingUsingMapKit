@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Your Project wants to use your present location</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Your Project wants to use your present location</string>
 </dict>
 </plist>
